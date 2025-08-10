@@ -1,0 +1,32 @@
+Authentication Screens:
+Login	Done
+Signup	Done
+Forgot Password		Done
+
+
+Main Screens:
+Home: Displays featured items, promotions, and recommendations.	Done
+Browse: Allows users to browse clothing items by category, brand, or style.	Done
+Search: Enables users to search for specific clothing items or designers.	Done
+Profile: User's profile settings, order history, saved items, etc.	Done
+
+
+Product Screens:
+Product List: Displays a list of products based on selected filters. 	Done
+Product Detail: Shows detailed information about a specific product including images, description, price, etc.	Done
+Designer Profile: Displays information about a specific designer including their portfolio, contact details, etc.
+
+
+Purchase Screens:
+Cart: Displays items added to the shopping cart with options to modify or remove items.
+Checkout: Allows users to review their order, select shipping options, and proceed to payment.
+Payment: Screens for entering payment details and completing the transaction.
+
+
+Messaging Screens:
+Inbox: Displays messages from designers or other users.
+Message Detail: Shows the details of a specific message thread.
+New Message: Allows users to compose and send messages to designers or other users.
+Other Screens:
+Notifications: Shows app notifications related to orders, messages, etc.
+Settings: Allows users to customize app settings such as notifications, language, etc.

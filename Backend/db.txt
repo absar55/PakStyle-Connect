@@ -1,0 +1,7 @@
+oversleep3r@gmail.com
+RhqQnfwKjOfQUHp9
+
+zubair
+Fast@1234
+
+mongodb+srv://zubair:Fast1234@cluster0.hbswwvk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
